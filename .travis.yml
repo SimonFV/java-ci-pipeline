@@ -9,4 +9,4 @@ before_install:
 jdk:
   - openjdk11
 
-script: ant test
+script: ant build
